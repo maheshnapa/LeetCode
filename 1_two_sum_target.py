@@ -25,4 +25,4 @@ class Solution:
         print("No two sum found")
         return []
 
-print(Solution().twoSum([2, 7, 11, 15], 9))
+print(Solution().twoSum([2, 7, 11, 18], 9))
