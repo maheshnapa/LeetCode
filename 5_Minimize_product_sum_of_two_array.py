@@ -14,8 +14,6 @@ class solution:
         return total
     
 
-
-
 import math
 
 def min_product_sum_strict(a: List[int], b: List[int]) -> int:
