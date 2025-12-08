@@ -16,6 +16,8 @@ class solution:
                     else:
                         count += 2
         return count
+    
+    # New function to return both count and list of triples
 
 
 def triples_and_count(n: int, ordered: bool = True):
