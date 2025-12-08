@@ -1,0 +1,1 @@
+print(Solution().twoSum([2, 7, 11, 18], 9))
