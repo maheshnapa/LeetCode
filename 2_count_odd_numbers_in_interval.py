@@ -19,4 +19,4 @@ class solution2:
         return (high + 1) // 2 - low // 2
     
 obj2 = solution2()
-print(obj2.countodds(3, 11))
+print(obj2.countodds(4, 10))
